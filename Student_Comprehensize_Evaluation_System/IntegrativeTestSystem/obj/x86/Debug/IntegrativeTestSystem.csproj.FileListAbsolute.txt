@@ -1,0 +1,10 @@
+D:\Coding Files\VisualStdio2010_C#\常州大学学期综合测试程序\IntegrativeTestSystem\obj\x86\Debug\IntegrativeTestSystem.MainForm.resources
+D:\Coding Files\VisualStdio2010_C#\常州大学学期综合测试程序\IntegrativeTestSystem\obj\x86\Debug\IntegrativeTestSystem.Properties.Resources.resources
+D:\Coding Files\VisualStdio2010_C#\常州大学学期综合测试程序\IntegrativeTestSystem\obj\x86\Debug\IntegrativeTestSystem.csproj.GenerateResource.Cache
+D:\Coding Files\VisualStdio2010_C#\常州大学学期综合测试程序\IntegrativeTestSystem\bin\Debug\IntegrativeTestSystem.exe
+D:\Coding Files\VisualStdio2010_C#\常州大学学期综合测试程序\IntegrativeTestSystem\bin\Debug\IntegrativeTestSystem.pdb
+D:\Coding Files\VisualStdio2010_C#\常州大学学期综合测试程序\IntegrativeTestSystem\obj\x86\Debug\IntegrativeTestSystem.exe
+D:\Coding Files\VisualStdio2010_C#\常州大学学期综合测试程序\IntegrativeTestSystem\obj\x86\Debug\IntegrativeTestSystem.pdb
+D:\Coding Files\VisualStdio2010_C#\常州大学学期综合测试程序\IntegrativeTestSystem\obj\x86\Debug\IntegrativeTestSystem.FormForCourse.resources
+D:\Coding Files\VisualStdio2010_C#\常州大学学期综合测试程序\IntegrativeTestSystem\obj\x86\Debug\IntegrativeTestSystem.csprojResolveAssemblyReference.cache
+D:\Coding Files\VisualStdio2010_C#\常州大学学期综合测试程序\IntegrativeTestSystem\obj\x86\Debug\IntegrativeTestSystem.FormForGrade.resources
